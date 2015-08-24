@@ -23,10 +23,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<dkpro.version>1.6.2</dkpro.version>
+		<dkpro.version>1.7.0</dkpro.version>
 		<java.target>1.7</java.target>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-		<argumentation.framework.version>0.0.2-SNAPSHOT-minimal</argumentation.framework.version>
+		<argumentation.framework.version>0.0.2</argumentation.framework.version>
 	</properties>
 
 	<groupId>de.tudarmstadt.ukp.dkpro.argumentation.tutorial</groupId>
